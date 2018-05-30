@@ -53,6 +53,7 @@ functionTable = { CONST_FUNC_CODE_FIBONACCI : FibonacciSequence,
 if __name__ == '__main__':
     print('')
     print(CONST_VERSION_STRING)
+    print("\nThe cake is a LIE!!!")
     print('')
 
     # Process command line arguments.
