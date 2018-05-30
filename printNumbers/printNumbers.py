@@ -53,6 +53,8 @@ functionTable = { CONST_FUNC_CODE_FIBONACCI : FibonacciSequence,
 if __name__ == '__main__':
     print('')
     print(CONST_VERSION_STRING)
+
+    # add some further randomness
     print("\nThe cake is a LIE!!!")
     print('')
 
